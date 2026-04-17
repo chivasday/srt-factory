@@ -1,0 +1,10 @@
+srt-factory/
+├── app.py              # Flask backend
+├── templates/
+│   ├── index.html     # Dashboard
+│   └── status.html    # Progress
+├── static/
+│   └── style.css      # UI cantik
+├── uploads/           # Temporary video
+├── srt_output/        # Hasil SRT
+└── requirements.txt
